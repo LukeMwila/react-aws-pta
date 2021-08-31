@@ -12,7 +12,7 @@ phases:
       - wget https://ecs-cli-v2-release.s3.amazonaws.com/copilot-linux-v1.9.0
       - mv ./copilot-linux-v1.9.0 ./copilot-linux
       - chmod +x ./copilot-linux
-      - npm install
+      - npm install 
   build:
     commands:
       - echo "Run your tests"
