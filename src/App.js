@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div>
-      Show me the update
+      This is the 2nd version!
     </div>
   );
 }
